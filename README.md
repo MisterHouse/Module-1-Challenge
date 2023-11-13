@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-# Web site can be run by this link https://misterhouse.github.io/Module-1-Challenge/
+# Web site can be run by this link https://misterhouse.github.io/Module-1-Challenge/Develop
 The changes made to the HTML code are as follows:
 
 Added a description meta tag.
